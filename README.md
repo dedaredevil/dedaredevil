@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Brandon 👋
 -	:sweat_smile: Student at the University of Central Florida
 -	:keyboard: Interested in front-end development
 -	:computer: Studying computer science
