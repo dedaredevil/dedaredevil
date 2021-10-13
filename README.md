@@ -1,7 +1,7 @@
 ### Hi there, I'm Brandon 👋
--	:sweat_smile: Student at the University of Central Florida
--	:computer: Studying computer science
-- :cat: Likes cats
+-	😅 Student at the University of Central Florida
+-	💻 Studying computer science
+- 🐭 Likes Disney
 <!--
 **dedaredevil/dedaredevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
