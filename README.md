@@ -1,4 +1,4 @@
-### Hi there, I'm Brandon 👋
+### Hi there, 👋
 -	😅 Student at the University of Central Florida
 -	💻 Studying computer science
 - 🐭 Likes Disney
